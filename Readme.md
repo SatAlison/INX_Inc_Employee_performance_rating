@@ -151,4 +151,9 @@ The app allows users to input employee attributes and receive a predicted perfor
 
 ---
 
-## Project Structure
+
+## Conclusion
+This project demonstrates that employee performance is less about personal traits and more about organizational context. By combining data analysis with thoughtful modeling, the project provides insights that can improve performance while preserving fairness and trust.
+
+The focus is not on punishing underperformance, but on creating conditions where employees can consistently succeed.
+
